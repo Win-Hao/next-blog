@@ -34,3 +34,16 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+# Next.js+Tailwind CSS+shadcn/ui
+This is a simple personal blog project that uses Next.js+Tailwind CSS in the front-end
+## Tech
+- Next.js+Tailwind CSS
+- shadcn/ui
+- JWT
+
+### This project also utilizes server-side and client-side components to optimize SEO. Also used feature from Next.js14: server action
+### I believe that after watching this project, it will deepen your understanding of Next.js. I hope it can help you get started and learn Next.js faster
+
+
+
