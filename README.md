@@ -1,5 +1,8 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-English/中文文档(https://github.com/Win-Hao/next-blog/blob/main/README.ZH-cn.md)
+# Nextjs-blog
+
+English/[中文文档](https://github.com/Win-Hao/next-blog/blob/main/README.ZH-cn.md)
+
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).</br>
 
 ## Getting Started
 
